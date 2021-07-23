@@ -248,7 +248,7 @@ console.log(oDr);
               Then, enter in the assessment scores for teacher/student-wellbeing and along with the data of how many suspensions, expulsions and office discipline referrals were given out and lastly the score on student test scores
 
             </li>
-            <li>lastly, hit submit and then repeat the process for as up to separate data entries from the program starting you will see the created interactable graphs appear on the right side of the screen</li>
+            <li>Lastly, hit submit and then repeat the process for as up to separate data entries from the program starting you will see the created interactable graphs appear on the right side of the screen</li>
             </ol>
             <p className="text-center bg-warning">Upon leaving the site, all the data that was entered by the user disappears and is never saved for privacy concerns. This means that when the site is reloaded in any shape or form the data shown is lost and will not be retrievable by you or anyone else. It is advised to keep a note of your own data just in case you exit the site too early</p>
           
