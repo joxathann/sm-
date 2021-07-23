@@ -1,0 +1,56 @@
+
+.background{
+  background-color: lightgrey;
+  margin: auto;
+  width:100vh;
+}
+
+
+.board{
+  background-color: white; 
+  padding: 100px;
+  background-size: cover;
+}
+
+.navbar{
+  background-color: white;
+
+}
+
+.borderStyle{
+  padding: 5px;
+  border-radius: 10px;
+  border-color: darkgrey;
+  border-style: solid ;
+  border-width: medium;
+}
+
+.borderStyle2{
+  border-radius: 10px;
+  border-color: darkgrey;
+  border-style: solid;
+  float: right;
+  
+  
+}
+
+
+.dropdown:hover .dropdown-menu{
+display: block;
+}
+
+.dropdown-menu{
+  margin-top:0;
+}
+
+#instructions{
+  background-color: #efefef;
+}
+
+.footer{
+  padding-right:0;
+  padding-left:0;
+  
+  font-size: 14px;
+  line-height: 18px;
+}

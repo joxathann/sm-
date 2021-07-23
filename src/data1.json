@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": "0",
+        "TeachWB": "20",
+        "StudentWB": "30",
+        "Suspensions": "20",
+        "TestScores": "20",
+        "Expulsions": "50",
+        "odr" :"30"
+    },
+    {
+        "id": "1",
+        "TeachWB": "20",
+        "StudentWB": "203",
+        "Suspensions": "20",
+        "TestScores": "20",
+        "Expulsions": "50",
+        "odr" :"30"
+    },
+    {
+        "id": "2",
+        "TeachWB": "20",
+        "StudentWB": "203",
+        "Suspensions": "20",
+        "TestScores": "20",
+        "Expulsions": "50",
+        "odr" :"30"
+
+    }
+]
